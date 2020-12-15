@@ -17,4 +17,4 @@ in_memory_cache
 
 4) curl --location --request POST 'http://localhost:8080/del' \
 --header 'Content-Type: application/json' \
---data-raw '["aaa","bbb","ccc"]'
+--data-raw '["sss"]'
