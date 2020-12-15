@@ -1,0 +1,6 @@
+com\cache\in_memory_cache\CacheServiceImpl.class
+com\cache\in_memory_cache\Elem.class
+com\cache\in_memory_cache\InMemoryCacheApplication.class
+com\cache\in_memory_cache\CacheConfiguration.class
+com\cache\in_memory_cache\CacheController.class
+com\cache\in_memory_cache\CacheService.class
